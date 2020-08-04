@@ -1,0 +1,9 @@
+@font-face{
+	font-family: 'all';
+	src:url(fonts/PlayfairDisplay-Black.ttf);
+}
+
+@font-face{
+	font-family:'logo';
+	src:url(fonts/PlayfairDisplay-Regular.ttf);
+}
