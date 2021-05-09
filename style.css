@@ -1,59 +1,62 @@
 * {
-    font-family: montserrat;
+  font-family: montserrat;
 }
 
 #logo {
-    width: 80px;
-    height: 50px;
+  width: 80px;
+  height: 50px;
 }
 
 #banner {
-    width: 100%;
-    height: 100vh;
-    background: linear-gradient(to bottom, rgba(6, 12, 34, 0.8)0, rgba(6, 12, 34, 0.8)100%),
-        url(image/image1.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+      to bottom,
+      rgba(6, 12, 34, 0.8) 0,
+      rgba(6, 12, 34, 0.8) 100%
+    ),
+    url(image/image1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 #header {
-    margin-top: 13%;
+  margin-top: 13%;
 }
 
 #custom {
-    color: #800000;
+  color: #800000;
 }
 
 a#btnAbt {
-    border-radius: 50px;
-    padding: 12px 32px;
-    border: 2px solid #f82249;
-    color: white;
-    transition: 0.5s;
-    animation-delay: 0.8s;
-    -webkit-animation-delay: 0.8s;
+  border-radius: 50px;
+  padding: 12px 32px;
+  border: 2px solid #f82249;
+  color: white;
+  transition: 0.5s;
+  animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
 }
 
 a#btnAbt:hover {
-    background-color: #f82249;
-
+  background-color: #f82249;
 }
 
 a#buyTick {
-    border-radius: 20px;
-    padding: 5px 10px;
-    color: white;
-    background-color: #f82249;
-    border: 1px solid #f82249;
-    transition: 0.5s;
-    animation-delay: 0.8s;
-    -webkit-animation-delay: 0.8s;
+  border-radius: 20px;
+  padding: 5px 10px;
+  color: white;
+  background-color: #f82249;
+  border: 1px solid #f82249;
+  transition: 0.5s;
+  animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
 }
 
 a#buyTick:hover {
-    border: 1px solid #f82249;
-    background: none;
+  border: 1px solid #f82249;
+  background: none;
 }
 
 /*a.nav-link {
@@ -75,178 +78,178 @@ a.nav-link:hover {
     animation-delay: 0.8s;
 }*/
 #status {
-    background: linear-gradient(to bottom, rgba(6, 12, 34, 0.8)0, rgba(6, 12, 34, 0.8)100%),
-        url(image/image2.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+  background: linear-gradient(
+      to bottom,
+      rgba(6, 12, 34, 0.8) 0,
+      rgba(6, 12, 34, 0.8) 100%
+    ),
+    url(image/image2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .img-fluid {
-    padding-top: 25px;
+  padding-top: 25px;
 }
 
 div.info {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    background: rgba(6, 12, 34, 0.76);
-    color: white;
-    width: 100%;
-    padding-top: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(6, 12, 34, 0.76);
+  color: white;
+  width: 100%;
+  padding-top: 10px;
 }
 
 div.speaker {
-    position: relative;
-    overflow: hidden !important;
+  position: relative;
+  overflow: hidden !important;
 }
 
 #line {
-    border-bottom: 3px solid #f82249;
-    width: 5%;
-    margin: auto;
-    display: block;
+  border-bottom: 3px solid #f82249;
+  width: 5%;
+  margin: auto;
+  display: block;
 }
 
 .navbar-default.scrolled {
-    background-color: black;
-    color: green;
+  background-color: black;
+  color: green;
 }
 
 a#btnsche {
-    border-radius: 50px;
-    width: 20%;
-    /*padding: 12px 32px;*/
-    background: #0d053f;
-    border: 2px solid #f82249;
-    color: white;
-    transition: 0.5s;
-    animation-delay: 0.8s;
-    -webkit-animation-delay: 0.8s;
+  border-radius: 50px;
+  width: 20%;
+  /*padding: 12px 32px;*/
+  background: #0d053f;
+  border: 2px solid #f82249;
+  color: white;
+  transition: 0.5s;
+  animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
 }
 
 #gallery {
-    width: 85%;
-    height: 80%;
+  width: 85%;
+  height: 80%;
 }
 
 .rounded-circle {
-    height: 100px;
+  height: 100px;
 }
 
 .speaker {
-    max-width: auto !important;
-    height: 20rem !important;
+  max-width: auto !important;
+  height: 20rem !important;
 }
 
 #linesche {
-    border-bottom: 2px solid #bac5ce;
-    width: 83%;
-    display: block;
-    margin: auto;
-
+  border-bottom: 2px solid #bac5ce;
+  width: 83%;
+  display: block;
+  margin: auto;
 }
 
 body {
-    background-color: #e5eaee;
+  background-color: #e5eaee;
 }
 
 #eventLoca {
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to bottom, rgba(6, 12, 34, 0.8)0, rgba(6, 12, 34, 0.8)100%),
-        url(image/image1.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+      to bottom,
+      rgba(6, 12, 34, 0.8) 0,
+      rgba(6, 12, 34, 0.8) 100%
+    ),
+    url(image/image1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 #pills-home-tab,
 #pills-profile-tab,
 #pills-contact-tab {
-    border-radius: 50px;
-    width: 30%;
-    color: white;
-    margin: 5px;
-    text-align: center;
-    background-color: #000080;
+  border-radius: 50px;
+  width: 30%;
+  color: white;
+  margin: 5px;
+  text-align: center;
+  background-color: #000080;
 }
 
 #pills-home-tab:focus,
-
 #pills-profile-tab:focus,
 #pills-contact-tab:focus {
-    background-color: #f82249;
+  background-color: #f82249;
 }
 
 #linefaq {
-    border-bottom: 2px solid #999999;
-    width: 100%;
-    display: block;
-    margin: auto;
+  border-bottom: 2px solid #999999;
+  width: 100%;
+  display: block;
+  margin: auto;
 }
 
 #BuyNow {
-    border-radius: 20px;
-    border: 2px solid #f82249;
-    background-color: #f82249;
-    color: white;
-    text-align: center;
-    padding: 5 20px;
-    margin: auto;
-    display: flex;
+  border-radius: 20px;
+  border: 2px solid #f82249;
+  background-color: #f82249;
+  color: white;
+  text-align: center;
+  padding: 5 20px;
+  margin: auto;
+  display: flex;
 }
 
 #BuyNow:hover {
-    background-color: black;
-    border: 2px solid #f82249;
+  background-color: black;
+  border: 2px solid #f82249;
 }
 
 .card.ticketCard {
-
-    box-shadow: 1px 10px 33px 2px #c4d0d0;
+  box-shadow: 1px 10px 33px 2px #c4d0d0;
 }
 
 #footerLine {
-
-    border-bottom: 3px solid #f82249;
-    width: 100%;
-    display: block;
-    margin-bottom: 10px;
+  border-bottom: 3px solid #f82249;
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
 }
 
 #footeritem {
-    border-bottom: 1px solid #999999;
-    display: block;
-    width: 100%;
+  border-bottom: 1px solid #999999;
+  display: block;
+  width: 100%;
 }
 
 .icofont-rounded-right,
 .icofont-location-pin {
-    color: #f82249;
+  color: #f82249;
 }
 
 .icon {
-    font-size: 30px;
-    color: white;
-    background-color: #3e3e42;
-    border-radius: 50%;
-    padding: 5px;
-    margin: 5px;
+  font-size: 30px;
+  color: white;
+  background-color: #3e3e42;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 5px;
 }
 
 #footer {
-    background: #070B27;
+  background: #070b27;
 
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 #team {
-    color: #f82249;
-}
-
-#copyright {
-    background-color: #2D2E34;
+  color: #f82249;
 }
